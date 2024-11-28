@@ -7,7 +7,7 @@ Ce dépôt contient un projet Python illustrant mes compétences en exploration 
 ## Projets inclus :
 
 ### 1. Analyse des annonces AirBnB à Paris
-- [Lien vers le projet](https://github.com/Arnaudl44/Python-Projects/blob/main/AirBnB_Listing_Analysis/README.md)
+- **Lien vers le projet** : [AirBnB Listing Analysis](https://github.com/Arnaudl44/Python-Projects/blob/main/AirBnB_Listing_Analysis/README.md)
 - **Objectif** : Évaluer l'impact des régulations récentes sur les annonces AirBnB à Paris.   
 - **Contenu** :
   - Analyse des tendances des prix par quartier et capacité d'accueil.
