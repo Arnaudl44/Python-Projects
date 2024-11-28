@@ -35,6 +35,6 @@ Ce dépôt contient un projet Python illustrant mes compétences en exploration 
 ---
 
 💡 **Projets futurs :**  
-Je prévois d'utiliser Python pour effectuer le nettoyage des données et l'EDA (Exploratory Data Analysis) dans le cadre d'un projet de plus grande envergure. Cela me permettra de renforcer mes compétences tout en abordant des analyses plus complexes et diversifiées.
+- Je prévois d'utiliser Python pour effectuer le nettoyage des données et l'EDA (Exploratory Data Analysis) dans le cadre d'un projet de plus grande envergure. Cela me permettra de renforcer mes compétences tout en abordant des analyses plus complexes et diversifiées.
 
 
