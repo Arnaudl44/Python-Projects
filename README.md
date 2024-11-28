@@ -6,8 +6,8 @@ Ce dépôt contient un projet Python illustrant mes compétences en exploration 
 
 ## Projets inclus :
 
-### 1. **Analyse des annonces AirBnB à Paris**
-   - **Objectif** : Évaluer l'impact des régulations récentes sur les annonces AirBnB à Paris.
+### 1. **[Analyse des annonces AirBnB à Paris](https://github.com/Arnaudl44/Python-Projects/blob/main/AirBnB_Listing_Analysis/README.md)**
+   - **Objectif** : Évaluer l'impact des régulations récentes sur les annonces AirBnB à Paris.   
    - **Contenu** :
      - Analyse des tendances des prix par quartier et capacité d'accueil.
      - Impact des régulations de 2015 sur les nouveaux hôtes et les prix.
@@ -21,6 +21,7 @@ Ce dépôt contient un projet Python illustrant mes compétences en exploration 
 ---
 
 ## 🛠 Compétences Python mises en avant :
+
 - **Manipulation des données** :
   - Exploration de données (`head`, `info`, `describe`, etc.).
   - Nettoyage et transformation (gestion des valeurs manquantes, conversion des types de données).
