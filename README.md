@@ -6,17 +6,18 @@ Ce dépôt contient un projet Python illustrant mes compétences en exploration 
 
 ## Projets inclus :
 
-### 1. **[Analyse des annonces AirBnB à Paris](https://github.com/Arnaudl44/Python-Projects/blob/main/AirBnB_Listing_Analysis/README.md)**
-   - **Objectif** : Évaluer l'impact des régulations récentes sur les annonces AirBnB à Paris.   
-   - **Contenu** :
-     - Analyse des tendances des prix par quartier et capacité d'accueil.
-     - Impact des régulations de 2015 sur les nouveaux hôtes et les prix.
-     - Visualisations des variations de prix et des tendances temporelles.
-   - **Compétences mises en avant** :
-     - Manipulation de données avec `pandas`.
-     - Création de visualisations avec `matplotlib` et `seaborn`.
-     - Gestion des données temporelles avec des objets datetime.
-     - Nettoyage et transformation des données pour une analyse fiable.
+### 1. Analyse des annonces AirBnB à Paris
+- [Lien vers le projet](https://github.com/Arnaudl44/Python-Projects/blob/main/AirBnB_Listing_Analysis/README.md)
+- **Objectif** : Évaluer l'impact des régulations récentes sur les annonces AirBnB à Paris.   
+- **Contenu** :
+  - Analyse des tendances des prix par quartier et capacité d'accueil.
+  - Impact des régulations de 2015 sur les nouveaux hôtes et les prix.
+  - Visualisations des variations de prix et des tendances temporelles.
+- **Compétences mises en avant** :
+  - Manipulation de données avec `pandas`.
+  - Création de visualisations avec `matplotlib` et `seaborn`.
+  - Gestion des données temporelles avec des objets datetime.
+  - Nettoyage et transformation des données pour une analyse fiable.
 
 ---
 
@@ -35,4 +36,5 @@ Ce dépôt contient un projet Python illustrant mes compétences en exploration 
 
 💡 **Projets futurs :**  
 Je prévois d'utiliser Python pour effectuer le nettoyage des données et l'EDA (Exploratory Data Analysis) dans le cadre d'un projet de plus grande envergure. Cela me permettra de renforcer mes compétences tout en abordant des analyses plus complexes et diversifiées.
+
 
