@@ -43,7 +43,3 @@ Avec la croissance de la popularité d'AirBnB, Paris est devenu une cible majeur
 
 ---
 
-### 4️⃣ **Ajouter et pousser les fichiers sur GitHub**
-1. Clonez votre repository GitHub en local :
-   ```bash
-   git clone https://github.com/votre-utilisateur/votre-repository.git
